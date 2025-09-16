@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background: #000; /* optional: black background around the map */
+}
+
+/* Ensure the canvas fills the viewport without scrollbars */
+#world-canvas {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+}
+
+
+
